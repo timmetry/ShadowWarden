@@ -1,0 +1,6 @@
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\ShadowWarden\ShadowWarden\ShadowWarden\bin\x86\Debug\ShadowWarden.exe
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\ShadowWarden\ShadowWarden\ShadowWarden\bin\x86\Debug\ShadowWarden.pdb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\ShadowWarden\ShadowWarden\ShadowWarden\obj\x86\Debug\ShadowWarden.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\ShadowWarden\ShadowWarden\ShadowWarden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\ShadowWarden\ShadowWarden\ShadowWarden\obj\x86\Debug\ShadowWarden.exe
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\ShadowWarden\ShadowWarden\ShadowWarden\obj\x86\Debug\ShadowWarden.pdb
